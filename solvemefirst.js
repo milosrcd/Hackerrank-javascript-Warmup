@@ -18,6 +18,8 @@ function readLine() {
     return input_stdin_array[input_currentline++];
 }
 
+
+//solution
 function solveMeFirst(a, b) {
   // Hint: Type return a+b below   
   return a + b;
